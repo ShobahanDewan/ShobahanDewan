@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ShobahanDewan</h1>
 <h3 align="center">I’m currently learning CSE</h3>
+<img align="right" alt="Coding" width="600"src="https://i.pinimg.com/originals/a3/82/40/a38240eb70bd2196ea59dba657cf6040.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobahandewan&label=Profile%20views&color=0e75b6&style=flat" alt="shobahandewan" /> </p>
 
