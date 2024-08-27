@@ -36,4 +36,4 @@
 
 
 
-<img align="center" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobahandewan&theme=dark&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobahandewan&theme=dark&hide_border=false" alt="profile-radme-generator" />
