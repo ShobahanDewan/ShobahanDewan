@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm ShobahanDewan</h1>
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=ShobahanDewan&text2="I'm%20passionate%20about%20Ethical%20Hacking%20and%20Cybersecurity."&width=1000&height=100)
+
 <h3 align="center">I’m currently learning Computer Science Engineering</h3>
 <img align="right" alt="Coding" width="400"src="https://giffiles.alphacoders.com/174/1744.gif">
 
