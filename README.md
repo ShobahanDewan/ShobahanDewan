@@ -2,7 +2,7 @@
 <hr >
 
 <h3 align="center"></h3>
-<img align="right" alt="Coding" width="450"src="https://giffiles.alphacoders.com/174/1744.gif">
+<img align="right" alt="Coding" width="450"src="https://i.pinimg.com/originals/7d/2a/9f/7d2a9fca264faa93561f72b5fc885fec.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobahandewan&label=Profile%20views&color=0e75b6&style=flat" alt="shobahandewan" /> </p>
 
@@ -35,7 +35,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
