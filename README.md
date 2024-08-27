@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+MD+SHOBAHAN+DEWAN;I%E2%80%99m+currently+learning+CSE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Black&weight=1000&size=25&pause=1000&color=CD0046&background=C0C0C000&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+MD+SHOBAHAN+DEWAN;I%E2%80%99m+currently+learning+CSE)](https://git.io/typing-svg)
 <hr >
 
 <h3 align="center"></h3>
