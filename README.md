@@ -32,8 +32,8 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=shobahandewan&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+<img align="right" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=shobahandewan&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobahandewan&theme=dark&hide_border=false" alt="profile-radme-generator" />
+<img align="center" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobahandewan&theme=dark&hide_border=false" alt="profile-radme-generator" />
