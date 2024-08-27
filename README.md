@@ -1,13 +1,15 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=ShobahanDewan&text2="I'm%20passionate%20about%20Ethical%20Hacking%20and%20Cybersecurity."&width=1000&height=100)
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Md_Shobahan_Dewan&text2="I'm%20passionate%20about%20Ethical%20Hacking%20and%20Cybersecurity."&width=1000&height=100)
 
 <h3 align="center">I’m currently learning Computer Science Engineering</h3>
-<img align="right" alt="Coding" width="400"src="https://giffiles.alphacoders.com/174/1744.gif">
+
+<h3 align="center"></h3>
+<img align="right" alt="Coding" width="450"src="https://giffiles.alphacoders.com/174/1744.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobahandewan&label=Profile%20views&color=0e75b6&style=flat" alt="shobahandewan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="in/md-shobahan-dewan-362441213" target="_blank">
+  <a href="https://www.linkedin.com/in/md-shobahan-dewan-362441213/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/shobahan.dewan.9" target="_blank">
