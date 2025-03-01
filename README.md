@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=900&size=26&pause=1000&color=D71162&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+MD+Shobahan+Dewan.;Strong+Interest+in+Cybersecurity%2C;Web+Design+and+Graphic+Design.;I+continue+to+learn+and+grow." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=900&size=26&pause=1000&color=D71162&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+MD+Shobahan+Dewan." alt="Typing SVG" /></a>
 <hr >
 
 <h3 align="center"></h3>
