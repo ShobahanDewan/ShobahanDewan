@@ -35,9 +35,4 @@
 
 ![Shobahan Dewan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShobahanDewan&custom_title=Shobahan%20Dewan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF1493&line=FF1493&point=FF1493&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
