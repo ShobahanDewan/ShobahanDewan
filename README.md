@@ -45,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShobahanDewan&theme=blueberry&show_icons=true&hide_border=false" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShobahanDewan&theme=blueberry&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShobahanDewan&theme=blueberry&show_icons=true&hide_border=false" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShobahanDewan&theme=blueberry&hide_border=false" width="42%"/>
 </p>
 
 <p align="center">
