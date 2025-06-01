@@ -4,7 +4,7 @@
 
 <hr/>
 
-<img align="right" alt="Coding" width="300" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220929133147/Why-you-should-use-framework-in-programming.gif">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 ### 👨‍💻 About Me
 
